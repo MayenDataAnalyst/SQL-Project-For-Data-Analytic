@@ -45,8 +45,10 @@ Data Analysis using SQL
 📂 **Project Structure**
 **project-folder/**
 │
+
 ├── database.sql   # Main SQL script
 └── README.md      # Project documentation
+
 🧠 **Key Concepts Used**
 
 🔹 **Database Creation**
